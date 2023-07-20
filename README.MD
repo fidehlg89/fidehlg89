@@ -84,7 +84,7 @@ I’m a Web Development from 2016, I prefer use this techs to develop:
 
 ### Landing page and portfolio:
 
-- <a href="https://fidehlg89.github.io/fidehlg89" target=”_blank”>https://fidehlg89.github.io/fidehlg89</a>
+- <a href="https://fidehlg89.github.io/fidehlg89" target=”_blank”>https://fidehlg89.github.io/landing-page</a>
 
 ### Other languajes and technologies learned on developing time:
 
