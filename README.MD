@@ -64,7 +64,8 @@ I’m a Web Development from 2016, I prefer use this techs to develop:
 
 ### 🔭 Current work:
 
-- <a href="https://front10.com/" target=”_blank”> Web Developer at Front10 Company (Remote)</a>
+- Web Developer at Home Office:
+- <a href="https://front10.com/" target=”_blank”>Front10</a>
 
 ### 📫 How to reach me:
 
