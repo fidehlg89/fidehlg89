@@ -139,6 +139,4 @@ I'm a Web Developer with experience since 2016, and I have a preference for util
 
 ## Thanks for readme 🤝
 
-_Note: Add my personal routes maps from each languages and frameworks_
-
 Last revision: 28/07/2023
