@@ -139,4 +139,4 @@ I'm a Web Developer with experience since 2016, and I have a preference for util
 
 ## Thanks for readme 🤝
 
-Last revision: 28/07/2023
+Last revision: Nov/2023
