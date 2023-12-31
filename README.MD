@@ -12,14 +12,21 @@ I'm a Web Developer with experience since 2016, and I have a preference for util
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
-### Frontend frameworks:
+### SPA Frontend frameworks
 
 <div display="flex">
-    <img src="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="React" data-canonical-src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;"/>
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="max-width: 100%;"/>
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>    
+ </div>
+
+<div style="margin-bottom: 20px"></div>
+
+### CSS frameworks and more...
+
+<div display="flex">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
- </div>
+</div>
 
 <div style="margin-bottom: 20px"></div>
 
@@ -41,7 +48,7 @@ I'm a Web Developer with experience since 2016, and I have a preference for util
 
 <div style="margin-bottom: 20px"></div>
 
-### IDEs and editors:
+### IDEs and editors used from starting dev journey
 
 <div display="flex">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -49,22 +56,28 @@ I'm a Web Developer with experience since 2016, and I have a preference for util
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
     <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
     <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 </div>
 
 <div style="margin-bottom: 20px"></div>
 
-### 🌱 Current learning:
+### 🌱 Current learning
 
 <div display="flex">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+</div>
+
+<!-- <div display="flex">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-</div>
+</div> -->
 
 <div style="margin-bottom: 20px"></div>
 
 ### 🔭 Current work:
 
-- Web Developer at Home Office (Remote): <a href="https://front10.com/" target=”_blank”>Front10</a>
+- Web Developer at Home Office (Remote): <a href="https://front10.com/" target=”_blank”>Front10 LLC</a>
 
 ### 📫 How to reach me:
 
@@ -103,8 +116,6 @@ I'm a Web Developer with experience since 2016, and I have a preference for util
     <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" />
     <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" />
     <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 
   </div>
   <div display="flex">
@@ -132,6 +143,7 @@ I'm a Web Developer with experience since 2016, and I have a preference for util
   <div display="flex">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
   </div>
 
@@ -139,4 +151,4 @@ I'm a Web Developer with experience since 2016, and I have a preference for util
 
 ## Thanks for readme 🤝
 
-Last revision: Nov/2023
+Last revision: Div/2023
