@@ -16,6 +16,7 @@ I'm a Web Developer with experience since 2016, and I have a preference for util
 
 <div display="flex">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="max-width: 100%;"/>
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>    
  </div>
 
@@ -63,8 +64,7 @@ I'm a Web Developer with experience since 2016, and I have a preference for util
 
 ### 🌱 Current learning
 
-<div display="flex">
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<div display="flex">    
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </div>
 
@@ -151,4 +151,4 @@ I'm a Web Developer with experience since 2016, and I have a preference for util
 
 ## Thanks for readme 🤝
 
-Last revision: Dic/2023
+Last revision: Mar/2024
