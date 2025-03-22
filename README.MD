@@ -85,7 +85,7 @@ I'm a Web Developer with experience since 2016, and I have a preference utilizin
     <a href="mailto:fidehlg89@gmail.com" target=”_blank”>
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/ernestoha89/" target=”_blank”>
+    <a href="https://www.linkedin.com/in/fidelernestoha89/" target=”_blank”>
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://telegram.me/ernestoha89" target=”_blank”>
