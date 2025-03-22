@@ -95,7 +95,7 @@ I'm a Web Developer with experience since 2016, and I have a preference utilizin
 
 ### Landing page and portfolio:
 
-- <a href="https://fidehlg89.github.io/fidehlg89" target=”_blank”>https://fidehlg89.github.io/landing-page</a>
+- <a href="https://fidelernesto-landing.vercel.app/" target=”_blank”>https://fidelernesto-landing.vercel.app</a>
 
 ### Other languajes and technologies learned on developing time:
 
