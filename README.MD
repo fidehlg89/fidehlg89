@@ -63,10 +63,21 @@ I'm a Web Developer with experience since 2016, and preference uses the followin
 
 <div style="margin-bottom: 20px"></div>
 
+### 🌐 API Technologies & Query Languages
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+</div>
+
+<div style="margin-bottom: 20px"></div>
+
 ### 🌱 Current learning
 
-<div display="flex">    
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<div display="flex">
+  <img src="https://img.shields.io/badge/AI_Engineering-FF6F61?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge&logo=runway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM_Integration-333333?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
 </div>
 
 <!-- <div display="flex">
