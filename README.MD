@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm a Web Developer with experience since 2016, and I have a preference utilizing the following technologies to development:
+I'm a Web Developer with experience since 2016, and preference uses the following technologies:
 
 <div display="flex">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
