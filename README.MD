@@ -77,7 +77,7 @@ I'm a Web Developer with experience since 2016, and I have a preference utilizin
 
 ### 🔭 Current work:
 
-- Web Developer at Home Office (Remote): <a href="https://front10.com/" target=”_blank”>Front10 LLC</a>
+- Looking for the next challenge
 
 ### 📫 How to reach me:
 
@@ -151,4 +151,4 @@ I'm a Web Developer with experience since 2016, and I have a preference utilizin
 
 ## Thanks for readme 🤝
 
-Last revision: 29/Dec/2025
+Last revision: 04/02/2025
