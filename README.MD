@@ -163,4 +163,4 @@ I'm a Web Developer with experience since 2016, and preference uses the followin
 
 ## Thanks for readme 🤝
 
-Last revision: 04/02/2025
+Last revision: 26/03/2026
